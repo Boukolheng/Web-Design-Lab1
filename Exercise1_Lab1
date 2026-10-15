@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>My Background</h1>
+    <p>Hello, My name is Heng. <br>Last year, I studied at CADT University
+    </p>
+    <p>Why? <b><br>Now I'm sophomor at CADT in Computer science.</b>I'm currently in Y2 term one and I like to design
+        website</p>
+    <p>CADT is the tecnology colleage if you want to explore more about CADT this is the website you can click it to
+        explore more you click this website <a href="https://cadt.edu.kh/">CADT website</a> </p>
+    <h2>Conclusion</h2>
+    <p>Still have question about CADT ? please <a href="mailto:boukkolheng99@gmail.com">contact me</a> for any questions
+        !
+    </p>
+</body>
+
+</html>
