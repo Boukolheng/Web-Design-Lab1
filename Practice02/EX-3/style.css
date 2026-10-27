@@ -1,0 +1,13 @@
+/* TODO */
+button {
+  background-color: pink;
+  color: white;
+  border: 5px solid hotpink;
+  border-radius: 40px;
+  width: 200px;
+  height: 80px;
+}
+button:hover {
+  background-color: purple;
+  border-color: black;
+}
