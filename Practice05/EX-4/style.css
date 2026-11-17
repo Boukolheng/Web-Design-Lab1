@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.small,
+.big {
+  color: white;
+  padding: 15px 25px;
+  font-size: 24px;
+}
+.big {
+  background: green;
+}
+
+.small {
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .big {
+    display: none;
+  }
+
+  .small {
+    display: inline-block;
+    background: tomato;
+    font-size: 14px;
+  }
+}
